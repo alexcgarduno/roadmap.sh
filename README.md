@@ -1,4 +1,4 @@
 # roadmap.sh
 Repository for roadmap.sh projects
 
-Link for first project: https://github.com/alexcgarduno/roadmap.sh/tree/main/Project%201
+Link for first project: [https://github.com/alexcgarduno/roadmap.sh/tree/main/Project%201](https://roadmap.sh/projects/single-page-cv)
